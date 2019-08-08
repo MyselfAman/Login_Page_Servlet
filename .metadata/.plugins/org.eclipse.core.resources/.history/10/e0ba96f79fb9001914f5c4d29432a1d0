@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url("images/code.jpg")no-repeat center top;
+  background-size: cover;
+  font-family: sans-serif;
+  height: 100vh;
+  color:White;
+  text-align:center;
+}
+
+body{
+	top:50%;
+	left:50%;
+	 position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+a{
+	top:50%;
+	left:50%;
+	 position: absolute;
+  transform: translate(-50%, -50%);
+}

@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Aug 08 14:23:35 IST 2019
+org.eclipse.jst.jee.server\:Login_Page=E\:\\Apps\\apache-tomcat-9.0.22\\wtpwebapps\\Login_Page
+org.eclipse.jst.jee.server\:New=E\:\\Apps\\apache-tomcat-9.0.22\\wtpwebapps\\New

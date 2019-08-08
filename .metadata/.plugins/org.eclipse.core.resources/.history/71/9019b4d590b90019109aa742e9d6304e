@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	
+}
+
+.login{
+	margin: auto;
+	text-align: center;
+	background-color:#5fb3f6;
+}

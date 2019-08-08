@@ -1,0 +1,18 @@
+package Login;
+
+import java.io.IOException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+public class SqServlet extends HttpServlet 
+{
+	public void service(HttpServletRequest req , HttpServletResponse res) throws IOException
+	{
+		int c=(int) req.getAttribute("c");
+		c=c*c;
+		java.io.PrintWriter out = res.getWriter();
+		out.println("Square is "+c);
+	}
+
+}

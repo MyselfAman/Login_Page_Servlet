@@ -1,0 +1,16 @@
+package Login;
+
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+public class LoginPage extends HttpServlet
+{
+ public void Service(HttpServletRequest req, HttpServletResponse res)
+ {
+	
+	int a= Integer.parseInt( req.Parameter("num1"));
+	 int b= Integer.parseInt( req.Parameter("num2"));
+	 
+ }
+}

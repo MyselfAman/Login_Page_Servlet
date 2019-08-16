@@ -19,7 +19,7 @@
         <label >Password</label>
         <input type="password" placeholder="Enter Password" name="password">
         <input type="submit" value="Log In">
-        <a href="#">Forgot Passwordassword?</a><br>
+        <a href="#">Forgot Password?</a><br>
         <a href="#">Don't have An account?</a>
       </form>
     </div>
